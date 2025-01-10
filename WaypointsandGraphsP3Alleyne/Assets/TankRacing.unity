@@ -275,6 +275,7 @@ MonoBehaviour:
   - {fileID: 1806104912}
   speed: 10
   rotSpeed: 6
+  lookAhead: 10
 --- !u!4 &80135345
 Transform:
   m_ObjectHideFlags: 0
@@ -837,6 +838,7 @@ MonoBehaviour:
   - {fileID: 1806104912}
   speed: 10
   rotSpeed: 6
+  lookAhead: 10
 --- !u!4 &330458212
 Transform:
   m_ObjectHideFlags: 0
@@ -1100,6 +1102,7 @@ MonoBehaviour:
   - {fileID: 1806104912}
   speed: 25
   rotSpeed: 7
+  lookAhead: 10
 --- !u!4 &424259691
 Transform:
   m_ObjectHideFlags: 0
@@ -1185,6 +1188,7 @@ MonoBehaviour:
   - {fileID: 1806104912}
   speed: 15
   rotSpeed: 5
+  lookAhead: 10
 --- !u!4 &446064310
 Transform:
   m_ObjectHideFlags: 0
@@ -1522,6 +1526,7 @@ MonoBehaviour:
   - {fileID: 1806104912}
   speed: 5
   rotSpeed: 3
+  lookAhead: 10
 --- !u!4 &549211466
 Transform:
   m_ObjectHideFlags: 0
@@ -1691,6 +1696,7 @@ MonoBehaviour:
   - {fileID: 1806104912}
   speed: 5
   rotSpeed: 3
+  lookAhead: 10
 --- !u!4 &577625881
 Transform:
   m_ObjectHideFlags: 0
@@ -2544,6 +2550,7 @@ MonoBehaviour:
   - {fileID: 1806104912}
   speed: 15
   rotSpeed: 5
+  lookAhead: 10
 --- !u!4 &752646871
 Transform:
   m_ObjectHideFlags: 0
@@ -2924,6 +2931,7 @@ MonoBehaviour:
   - {fileID: 1806104912}
   speed: 25
   rotSpeed: 7
+  lookAhead: 10
 --- !u!4 &853840144
 Transform:
   m_ObjectHideFlags: 0
@@ -3318,6 +3326,7 @@ MonoBehaviour:
   - {fileID: 1806104912}
   speed: 25
   rotSpeed: 7
+  lookAhead: 10
 --- !u!4 &972981715
 Transform:
   m_ObjectHideFlags: 0
@@ -3544,6 +3553,7 @@ MonoBehaviour:
   - {fileID: 1806104912}
   speed: 15
   rotSpeed: 5
+  lookAhead: 10
 --- !u!4 &1062221630
 Transform:
   m_ObjectHideFlags: 0
@@ -4006,6 +4016,7 @@ MonoBehaviour:
   - {fileID: 1806104912}
   speed: 5
   rotSpeed: 3
+  lookAhead: 10
 --- !u!4 &1314882918
 Transform:
   m_ObjectHideFlags: 0
@@ -5292,6 +5303,7 @@ MonoBehaviour:
   - {fileID: 1806104912}
   speed: 10
   rotSpeed: 6
+  lookAhead: 10
 --- !u!4 &1745877831
 Transform:
   m_ObjectHideFlags: 0
@@ -6723,6 +6735,7 @@ MonoBehaviour:
   - {fileID: 1806104912}
   speed: 25
   rotSpeed: 7
+  lookAhead: 10
 --- !u!54 &2713447972708953234
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7144,7 +7157,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!23 &5583166799895348311
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7454,7 +7467,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!1 &6591627735941132299
 GameObject:
   m_ObjectHideFlags: 0
@@ -7473,7 +7486,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &6604635911952330042
 Transform:
   m_ObjectHideFlags: 0
@@ -7778,6 +7791,7 @@ MonoBehaviour:
   - {fileID: 1806104912}
   speed: 5
   rotSpeed: 3
+  lookAhead: 10
 --- !u!54 &7863693248642204186
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7844,6 +7858,7 @@ MonoBehaviour:
   - {fileID: 1806104912}
   speed: 10
   rotSpeed: 6
+  lookAhead: 10
 --- !u!54 &7871142010654116012
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8052,6 +8067,7 @@ MonoBehaviour:
   - {fileID: 1806104912}
   speed: 15
   rotSpeed: 5
+  lookAhead: 10
 --- !u!54 &9048989675280529227
 Rigidbody:
   m_ObjectHideFlags: 0
